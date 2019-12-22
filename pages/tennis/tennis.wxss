@@ -1,0 +1,4 @@
+/* pages/tennis/tennis.wxss */
+.te{
+  text-align: center;
+}

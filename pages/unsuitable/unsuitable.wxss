@@ -1,0 +1,4 @@
+/* pages/unsuitable/unsuitable.wxss */
+.e{
+  text-align: center;
+}

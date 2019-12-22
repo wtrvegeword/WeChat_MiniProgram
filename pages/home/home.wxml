@@ -1,0 +1,8 @@
+<view>
+  <image src="/img/start.jpg" class="start"></image>
+</view>
+ 
+
+<button class="anjian1"  bindtap="tiaozhuan">
+<view class="jianshen">开始锻炼</view>
+</button>

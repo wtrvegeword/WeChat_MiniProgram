@@ -1,0 +1,4 @@
+/* pages/running/running.wxss */
+.running{
+  text-align:center
+}

@@ -1,0 +1,22 @@
+.start{
+  width: 375px;
+  height: 667px;
+  
+}
+.jianshen{
+  width: 100%;
+  background-color: rgb(13, 66, 209);
+  color: rgb(247, 243, 33);
+  border-radius:50rpx;
+  text-align:center;
+  font-size:25px;
+ 
+}
+.anjian1{
+  border-radius:50rpx;
+  display:flex;
+  background-color: rgb(13, 66, 209);
+  position:absolute;
+  left:128px;
+  top:450px;
+}

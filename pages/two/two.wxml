@@ -1,0 +1,8 @@
+<view >
+   <image src="/img/select.jpg" class="two"></image>
+</view>
+<button class="anjian2" bindtap="tiaozhuan2"><view class="shinei">室内情况</view></button>
+<button class="anjian3" bindtap="tiaozhuan3"><view class="shiwai">室外情况</view></button>
+
+
+

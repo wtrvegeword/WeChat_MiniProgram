@@ -1,0 +1,30 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/index/index",
+    "pages/about/about",
+    "pages/setting/setting",
+    "pages/systeminfo/systeminfo",
+    "pages/two/two",
+    "pages/suitable/suitable",
+    "pages/unsuitable/unsuitable",
+    "pages/running/running",
+    "pages/basketball/basketball",
+    "pages/football/football",
+    "pages/tennis/tennis",
+    "pages/badminton/badminton"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#40a7e7",
+    "navigationBarTitleText": "Weather Widget",
+    "navigationBarTextStyle": "black"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "定位以获取当前位置天气信息"
+    }
+  },
+  "cloud": true,
+  "sitemapLocation": "sitemap.json"
+}

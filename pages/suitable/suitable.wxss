@@ -1,0 +1,5 @@
+/* pages/suitable/suitable.wxss */
+
+.h{
+  text-align:center;
+}
